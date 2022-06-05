@@ -1,2 +1,2 @@
-improt nn1
-nn1.Rishu()
+from nn1 import Rishu
+Rishu()
